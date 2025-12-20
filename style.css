@@ -15,12 +15,13 @@
     margin: 0 auto;
     padding: 0 50px;
 }
-.header_content {
+.header_contents {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .logo {
     width: 200px;
     height: 200px;
+    align-items: center;
 }
